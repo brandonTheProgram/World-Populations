@@ -8,7 +8,7 @@ To use:
 
   • Download the project
   
-  • Open the html that bring up the interactive map on your browser 
+  • Open the svg file which bring up the interactive map on your browser 
   
   • To regenerate the map, open the world_atlas.py file then open the html link that is created
 
